@@ -1,0 +1,10 @@
+fastapi==0.68.1
+uvicorn==0.15.0
+python-multipart==0.0.5
+aiohttp==3.8.1
+databases==0.5.3
+asyncpg==0.25.0
+python-dotenv==0.19.2
+Pillow==9.0.0
+openai==1.0.0
+google-images-search==1.4.0
